@@ -16,7 +16,7 @@ During standby, the power consumption is approximately 5uA. The LED flashing tim
 
 1. The CR2032 cell should last some 3-4 years. We save 10 cents on an off switch, which would look ugly anyway.
 2. The LED flash sequence is clearly human-visible. However, it offers poor visibility to machines, specifically things like smartphone cameras. The flash time is very short and the shutter speed of consumer cameras does not capture it reliably.
-3. We save 0.3 cents on 0402 resistors.
+3. We save 0.3 cents on 0402 resistors (yes, I know, I am very tight with money).
 
 # Why?
 
