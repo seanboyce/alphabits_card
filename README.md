@@ -6,6 +6,8 @@ It is a 3-color design: green, white, and silver. The green layer is the plan PC
 
 Integrated into the front design are 3 LEDs that flash in sequence, then pause, then repeat.
 
+![Photo of the electronic business card.](https://raw.githubusercontent.com/seanboyce/alphabits_card/refs/heads/main/single_card_web_small.JPG)
+
 # That's it?
 
 Well, yes and no. You may notice that there are no resistors on the 0402 LEDs, the attiny10 can definitely deliver enough current to burn them out.
