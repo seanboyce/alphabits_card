@@ -25,6 +25,6 @@ In Asia, we still use business cards. However, in recent years I noticed we don'
 So, since we're not giving them out any more, why not do something a little more fun? Specifically:
 
 1. Add the QR code so that people who already have their phone out can just visit your website right away.
-2. PCB business cards look cool, if I'm not handing them out, spending a little is OK!
+2. PCB business cards look cool, if I'm not handing them out, spending (a little) is OK!
 3. The fact that the sequence of lights is not-machine visible (e.g. to smartphones, which again, we already have out as part of the interaction) is a memorable talking point, and the fact that it's only visible in-person is a nice reference to the importance that we met in-person.
 4. I don't want to deal with it running out of batteries, so the battery has to last years.
